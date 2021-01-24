@@ -1,24 +1,24 @@
-Inkdicted Book Store
-Berkin Düz -- MCBU Fullstack Project
+<h3><b>Inkdicted Book Store</b></h3>
+<h3>Berkin Düz -- MCBU Fullstack Project</h3>
 
-Some images from the project
+<h2>Some images from the project</h2>
 
-Home Page
+<h3>Home Page</h3>
 <img src="client\public\images\demo\home.JPG" alt="Home Page" width="200px">
 
-More Home Page
+<h3>More Home Page</h3>
 <img src="client\public\images\demo\home2.JPG" alt="More Home Page" width="200px">
 
-Book Store
+<h3>Book Store</h3>
 <img src="client\public\images\demo\store.JPG" alt="Store" width="200px">
 
-User's Cart
+<h3>User's Cart</h3>
 <img src="client\public\images\demo\cart.JPG" alt="Cart" width="200px">
 
-Purchase Screen
+<h3>Purchase Screen</h3>
 <img src="client\public\images\demo\buy.JPG" alt="Buy" width="200px">
 
-Adding Product
+<h3>Product Adding</h3>
 <img src="client\public\images\demo\add.JPG" alt="Add Product" width="200px">
 
 
