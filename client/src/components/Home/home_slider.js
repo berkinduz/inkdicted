@@ -7,8 +7,8 @@ const HomeSlider = (props) => {
     const slides = [
         {
             img:'/images/featured/featured_home.jpg',
-            lineOne:'Time To Read',
-            lineTwo:'With coffee, on cold nights.',
+            lineOne:'Let\'s Read',
+            lineTwo:'Are your coffees ready?',
             linkTitle:'Shop now',
             linkTo:'/shop'
         },
@@ -62,7 +62,7 @@ const HomeSlider = (props) => {
     
  
 
-    
+
     return (
         <div className="featured_container">
             <Slider {...settings}>
