@@ -62,6 +62,7 @@ const HomeSlider = (props) => {
     
  
 
+    
     return (
         <div className="featured_container">
             <Slider {...settings}>
