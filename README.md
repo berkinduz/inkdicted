@@ -2,12 +2,13 @@ Berkin Düz -- MCBU Fullstack Project
 
 Some images from the project
 
-![Home Page](https://ibb.co/sgxmZvf)
-![More Home Page](https://ibb.co/C5F7t7p)
-![Store](https://ibb.co/7vhHjQT)
-![Cart](https://ibb.co/Rh2zR3H)
-![Account Page](https://ibb.co/gZf12TX)
-![Admin Product Adding](https://ibb.co/TBRkwBR)
+<img src="client\public\images\demo\home.JPG" alt="Home Page" width="200px">
+<img src="client\public\images\demo\home2.JPG" alt="More Home Page" width="200px">
+<img src="client\public\images\demo\store.JPG" alt="Store" width="200px">
+<img src="client\public\images\demo\cart.JPG" alt="Cart" width="200px">
+<img src="client\public\images\demo\buy.JPG" alt="Buy" width="200px">
+<img src="client\public\images\demo\add.JPG" alt="Add Product" width="200px">
+
 
 
 
