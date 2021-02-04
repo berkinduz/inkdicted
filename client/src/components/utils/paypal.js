@@ -8,24 +8,6 @@ class Paypal extends Component {
             console.log(JSON.stringify(payment));
             this.props.onSuccess(payment);
 
-            // { 
-            //     "paid": true, 
-            //     "cancelled": false, 
-            //     "payerID": "3GFGQ6GNJ4PWA", 
-            //     "paymentID": "PAY-0UB74233TB278434KLMYYMVY", 
-            //     "paymentToken": "EC-2J270753AK460261B", 
-            //     "returnUrl": "https://www.sandbox.paypal.com/?paymentId=PAY-0UB74233TB278434KLMYYMVY&token=EC-2J270753AK460261B&PayerID=3GFGQ6GNJ4PWA", 
-            //     "address": { 
-            //         "recipient_name": "test buyer", 
-            //         "line1": "1 Main St", 
-            //         "city": "San Jose", 
-            //         "state": "CA", 
-            //         "postal_code": "95131", 
-            //         "country_code": "US" 
-            //     }, 
-            //     "email": "fernando.lobo.prez-buyer@gmail.com" 
-            // }
-
 
         }
 
