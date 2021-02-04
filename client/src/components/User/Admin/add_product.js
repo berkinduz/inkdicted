@@ -19,10 +19,10 @@ class AddProduct extends Component {
                 element: 'input',
                 value: '',
                 config:{
-                    label: 'Product name',
+                    label: 'Book name',
                     name: 'name_input',
                     type: 'text',
-                    placeholder: 'Enter your name'
+                    placeholder: 'Enter book\'s name'
                 },
                 validation:{
                     required: true
@@ -39,7 +39,7 @@ class AddProduct extends Component {
                     label: 'Product description',
                     name: 'description_input',
                     type: 'text',
-                    placeholder: 'Enter your description'
+                    placeholder: 'Enter book\'s description'
                 },
                 validation:{
                     required: true
@@ -56,7 +56,7 @@ class AddProduct extends Component {
                     label: 'Product price',
                     name: 'price_input',
                     type: 'number',
-                    placeholder: 'Enter your price'
+                    placeholder: 'Enter book\'s price'
                 },
                 validation:{
                     required: true
@@ -70,7 +70,7 @@ class AddProduct extends Component {
                 element: 'select',
                 value: '',
                 config:{
-                    label: 'Product Publisher',
+                    label: 'Publisher',
                     name: 'publishers_input',
                     options:[]
                 },
@@ -124,7 +124,7 @@ class AddProduct extends Component {
                 element: 'select',
                 value: '',
                 config:{
-                    label: 'Author material',
+                    label: 'Author ',
                     name: 'author_input',
                     options:[]
                 },
@@ -272,7 +272,7 @@ class AddProduct extends Component {
         return (
             <UserLayout>
                 <div>
-                    <h1>Add product</h1>
+                    <h1>Add Book</h1>
                     
                     <form onSubmit={(event)=> this.submitForm(event)}>
 

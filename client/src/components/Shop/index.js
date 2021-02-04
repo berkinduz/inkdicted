@@ -107,7 +107,7 @@ class Shop extends Component {
         return (
             <div>
                 <PageTop
-                    title="Browse Products"
+                    title="Browse Books "
                 />
                 <div className="container">
                     <div className="shop_wrapper">

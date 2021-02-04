@@ -22,7 +22,7 @@ const UserProductBlock = ({products,removeItem}) => {
                         ></div>
                     </div>
                     <div className="item">
-                        <h4>Product name</h4>
+                        <h4>Book name</h4>
                         <div>
                             {product.publisher.name} {product.name}
                         </div>
