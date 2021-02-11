@@ -1,5 +1,7 @@
 const mongoose = require('mongoose');
 
+//herkese merhaba ben ege
+
 const authorSchema = mongoose.Schema({
     name: {
         require: true,
