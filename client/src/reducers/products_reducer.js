@@ -12,7 +12,7 @@ import {
     CLEAR_PRODUCT_DETAIL
 } from '../actions/types';
  
-
+// Berkin Düz
 export default function(state={},action){
     switch(action.type){
         case GET_PRODUCTS_BY_SELL:
