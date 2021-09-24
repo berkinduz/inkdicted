@@ -1,5 +1,5 @@
 <h3><b>Inkdicted Book Store</b></h3>
-<h5>Berkin Düz -- MCBU Fullstack Project</h5>
+<h5>Berkin Düz -- MCBU Fullstack Graduation 1 Project</h5>
 
 <h2>Some images from the project</h2>
 
